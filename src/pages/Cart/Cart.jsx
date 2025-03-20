@@ -1,3 +1,58 @@
+/*import React, { useState, useEffect } from 'react';
+import apiService from '../../services/apiService';
+
+const Cart = () => {
+  const [cartItems, setCartItems] = useState([]);
+
+  useEffect(() => {
+    const userId = 1; // Replace with actual user ID
+    apiService.getCart(userId)
+      .then((response) => {
+        setCartItems(response.data);
+      })
+      .catch((error) => {
+        console.error('Error fetching cart items', error);
+      });
+  }, []);
+
+  const removeItem = (foodId) => {
+    const userId = 1; // Replace with actual user ID
+    apiService.removeFromCart(userId, foodId)
+      .then((response) => {
+        console.log(response.data); // Handle success
+        // Optionally re-fetch the cart items after removal
+        apiService.getCart(userId).then((response) => setCartItems(response.data));
+      })
+      .catch((error) => {
+        console.error('Error removing item from cart', error);
+      });
+  };
+
+  return (
+    <div>
+      {cartItems.length === 0 ? (
+        <p>Your cart is empty</p>
+      ) : (
+        <ul>
+          {cartItems.map((cartItem) => (
+            <li key={cartItem.id}>
+              <p>{cartItem.food.name} - {cartItem.quantity}</p>
+              <button onClick={() => removeItem(cartItem.food.id)}>Remove</button>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+};
+
+export default Cart;*/
+
+
+
+
+
+
 import React from 'react'
 import './Cart.css'
 import { useContext } from 'react'
