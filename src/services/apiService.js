@@ -1,4 +1,4 @@
-/*import axios from 'axios';
+import axios from 'axios';
 
 // Base URL for the backend API
 const API_BASE_URL = 'http://localhost:8080/api'; // Adjust to match your backend URL
@@ -29,4 +29,4 @@ const apiService = {
   }
 };
 
-export default apiService;*/
+export default apiService;
