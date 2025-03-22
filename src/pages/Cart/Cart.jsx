@@ -53,7 +53,7 @@ export default Cart;*/
 
 
 
-import React from 'react'
+/*import React from 'react'
 import './Cart.css'
 import { useContext } from 'react'
 import { StoreContext } from '../../Context/StoreContext'
@@ -129,4 +129,4 @@ const Cart = () =>{
   )
 }
 
-export default Cart
+export default Cart*/
