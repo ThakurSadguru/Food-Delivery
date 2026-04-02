@@ -28,12 +28,12 @@ Lack of centralized system
 👉 This project solves these problems by providing a smooth digital ordering experience.
 
 🎯 Objectives
-Build a user-friendly food ordering application
-Provide access to a wide range of food items
-Display clear dish details and pricing
-Improve customer satisfaction
-Reduce manual effort and errors
-Enhance restaurant efficiency
+- Build a user-friendly food ordering application
+- Provide access to a wide range of food items
+- Display clear dish details and pricing
+- Improve customer satisfaction
+- Reduce manual effort and errors
+- Enhance restaurant efficiency
 📱 Features
 🏠 Home Page
 Attractive UI
