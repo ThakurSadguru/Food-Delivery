@@ -34,12 +34,13 @@ Lack of centralized system
 - Improve customer satisfaction
 - Reduce manual effort and errors
 - Enhance restaurant efficiency
+  
 📱 Features
 🏠 Home Page
-Attractive UI
-Easy navigation (Home, Menu, Contact, Sign In)
+- Attractive UI
+- Easy navigation (Home, Menu, Contact, Sign In)
 📋 Menu Section
-Browse categories:
+- Browse categories:
 🥗 Salads
 🌯 Rolls
 🍰 Desserts
@@ -48,47 +49,55 @@ Browse categories:
 🥬 Pure Veg
 🍝 Pasta
 🍜 Noodles
-Each item includes:
+- Each item includes:
 Name
 Description
 Price
+
 ⭐ Top Dishes
-Highlights popular items
-Helps users quickly choose meals
+- Highlights popular items
+- Helps users quickly choose meals
+  
 🔐 Authentication
 User Sign In
 (Future: Profile & order history)
+
 📞 Contact Section
 Company details
 Email & phone
-Policies (privacy, delivery, etc.)
+Policies (privacy, delivery, etc
+
 ⚙️ Functional Requirements
-User registration & login
-View food categories and items
-Display descriptions and pricing
-Smooth navigation
-Mobile responsive design
-Contact/support access
+- User registration & login
+- View food categories and items
+- Display descriptions and pricing
+- Smooth navigation
+- Mobile responsive design
+- Contact/support access
+
+
 🚀 Non-Functional Requirements
-Simple and intuitive UI
-Fast performance
-Secure data handling
-Responsive design
-Scalable architecture
+- Simple and intuitive UI
+- Fast performance
+- Secure data handling
+- Responsive design
+- Scalable architecture
+  
 🛠️ Tech Stack
 Frontend
-React
-HTML
-CSS
-JavaScript
+- React
+- HTML
+- CSS
+- JavaScript
 Backend
-Spring Boot (Java)
+- Spring Boot (Java)
 Database
-MySQL / MongoDB (optional)
+- MySQL / MongoDB (optional)
 Tools
-VS Code
-Git & GitHub
-Browser Developer Tools
+- VS Code
+- Git & GitHub
+- Browser Developer Tools
+  
 🌟 Advantages
 ⏱️ Saves time
 ❌ Reduces ordering errors
